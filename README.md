@@ -2,9 +2,6 @@
   <table>
     <tr>
       <td>
-        <p align="center">
-          <img src="github-header-image.png" alt="Header Image" width="900" height="200">
-        </p>
         <h2 align="center">Hi there, I'm Kushal Chaulagain 👋</h2>
         <p align="center">Welcome to my GitHub profile! I'm a passionate developer with a strong interest in coding and problem-solving. I enjoy building innovative projects and exploring new technologies.</p>
       </td>

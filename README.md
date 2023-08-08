@@ -28,11 +28,10 @@ Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use
 ![](https://github-readme-stats.vercel.app/api?username=dev00kushal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev00kushal&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev00kushal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<p align="center"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 
 
             

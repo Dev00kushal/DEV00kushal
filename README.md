@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/KushalChaulagain"><img src="https://api.daily.dev/devcards/c443f575df3947b089feff152f7f920b.png?r=2v2" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/KushalChaulagain"><img src="https://api.daily.dev/devcards/c443f575df3947b089feff152f7f920b.png?r=2v2" width="400" alt="Kushal Chaulagain Dev Card"/></a></p>
 
 <br/>
 

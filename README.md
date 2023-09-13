@@ -1,9 +1,5 @@
-<p align="center"><a href="https://app.daily.dev/KushalChaulagain"><img src="https://api.daily.dev/devcards/c443f575df3947b089feff152f7f920b.png?r=2v2" width="400" alt="Kushal Chaulagain Dev Card"/></a></p>
-
-<br/>
-
 # 💫 About Me:
-Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use React.
+Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use Flutter.
 <br/>
 
 # 💻 Tech Stack:
@@ -21,15 +17,8 @@ Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 <br/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev00kushal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev00kushal&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev00kushal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p align="center"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 
 
             

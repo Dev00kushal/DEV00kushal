@@ -17,6 +17,13 @@ Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 <br/>
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dev00kushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dev00kushal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev00kushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

@@ -1,5 +1,6 @@
+<a href="https://app.daily.dev/kushalchaulagain"><img src="https://api.daily.dev/devcards/c443f575df3947b089feff152f7f920b.png?r=k90" width="400" alt="Kushal Chaulagain's Dev Card"/></a>
 # 💫 About Me:
-Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use Flutter.
+Hello there! I'm Kushal Chaulagain, a developer specializing in frontend development for mobile and web applications.
 <br/>
 
 # 💻 Tech Stack:
@@ -12,10 +13,9 @@ Hi , I'm Kushal Chaulagain, a front-end developer at the moment. I primarily use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br/>
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dev00kushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

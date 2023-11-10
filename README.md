@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/kushalchaulagain"><img src="https://api.daily.dev/devcards/c443f575df3947b089feff152f7f920b.png?r=k90" width="400" alt="Kushal Chaulagain's Dev Card"/></a>
 # 💫 About Me:
-Hello there! I'm Kushal Chaulagain, a developer specializing in frontend development for mobile and web applications.
+Hello there! I'm Kushal Chaulagain, a JS developer
 <br/>
 
 # 💻 Tech Stack:

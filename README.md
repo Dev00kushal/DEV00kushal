@@ -3,7 +3,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,dart,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,dart,cpp)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 

@@ -7,7 +7,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,flutter,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,flutter,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   

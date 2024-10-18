@@ -12,7 +12,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,aws,vercel,netlify)](https://skillicons.dev)
 
 
             

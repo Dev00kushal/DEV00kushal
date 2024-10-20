@@ -1,18 +1,18 @@
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,golang,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,react,nextjs,flutter,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,django,react,nextjs,flutter)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mongo,postgresql,redis,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgresql,mysql,redis,kafka,rabbitmq)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,aws,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,aws,docker,vercel,ubuntu)](https://skillicons.dev)
 
 
             

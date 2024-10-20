@@ -8,11 +8,11 @@
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mongo,postgresql,mysql,redis,kafka,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgresql,mysql,redis)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,aws,docker,vercel,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,aws,docker,vercel,ubuntu,kafka,rabbitmq)](https://skillicons.dev)
 
 
             

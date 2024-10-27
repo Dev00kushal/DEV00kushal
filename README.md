@@ -4,7 +4,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,django,react,nextjs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,react,nextjs,flutter)](https://skillicons.dev)
 
 <h2>Databases</h2>
   

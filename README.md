@@ -1,6 +1,6 @@
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,golang)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 

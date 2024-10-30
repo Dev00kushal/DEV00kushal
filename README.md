@@ -9,11 +9,11 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,python)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,react,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,flutter,django)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
